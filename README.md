@@ -256,6 +256,7 @@ All the data (past and coming) is available publicly in JSON:
 * 9-10: [Devops Barcelona Conference 2023](https://devops.barcelona/?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023) - Barcelona (Spain) <a href="https://devops.barcelona/call-for-papers?utm_source=developers-conference-agenda&utm_medium=link&utm_campaign=devops-barcelona-2023&utm_id=devops-barcelona-2023"><img alt="CFP Devops Barcelona 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2030-June-2023&color=green"></a>
 * 10: [BDX I/O](https://www.bdxio.fr/) - Bordeaux (France)
 * 12-14: [Meeting C++ 2023](https://meetingcpp.com/) - Berlin (Germany) and online
+* 13-15: [Scale By the Bay](https://www.scale.bythebay.io) - Oakland (US) <a href="https://www.scale.bythebay.io/cfp"><img alt="CFP Scale By the Bay 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2014-May-2023&color=green"></a>
 * 14: [Data Community Conference](https://www.data-community.ch/) - Bern (Swiss)
 * 16: [DevFest Toulouse](https://devfesttoulouse.fr/) - Toulouse (France) <a href="https://devfesttoulouse.fr/#le-cfp"><img alt="CFP DevFest Toulouse 2023" src="https://img.shields.io/static/v1?label=CFP&message=until%2018-June-2023&color=green"></a>
 * 16: [Conf42: Javascript 2023](https://www.conf42.com/js2023) - Online
